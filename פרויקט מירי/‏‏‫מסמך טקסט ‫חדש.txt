@@ -1,0 +1,1 @@
+"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=H:\פרויקט c#\ProjectMiri\DB\StudentsDatabase.mdf;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer –Context PlacementOfFemaleStudents -OutputDir DO -Force
